@@ -8,8 +8,8 @@ import (
 
 	"github.com/blang/semver"
 
-	"github.com/concourse/semver-resource/models"
-	"github.com/concourse/semver-resource/version"
+	"github.com/jmelchio/semver-resource/models"
+	"github.com/jmelchio/semver-resource/version"
 )
 
 func main() {
