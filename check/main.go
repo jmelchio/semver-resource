@@ -6,8 +6,8 @@ import (
 	"os"
 
 	"github.com/blang/semver"
-	"github.com/jmelchio/semver-resource/driver"
-	"github.com/jmelchio/semver-resource/models"
+	"github.com/concourse/semver-resource/driver"
+	"github.com/concourse/semver-resource/models"
 )
 
 func main() {

@@ -2,7 +2,7 @@ package version_test
 
 import (
 	"github.com/blang/semver"
-	"github.com/jmelchio/semver-resource/version"
+	"github.com/concourse/semver-resource/version"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

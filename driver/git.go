@@ -11,7 +11,7 @@ import (
 	"strings"
 
 	"github.com/blang/semver"
-	"github.com/jmelchio/semver-resource/version"
+	"github.com/concourse/semver-resource/version"
 )
 
 var gitRepoDir string
